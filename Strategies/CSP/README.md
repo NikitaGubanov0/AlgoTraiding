@@ -1,4 +1,4 @@
-# Section Performance Reversion
+# Cross-Section Performance Reversion
 
 В данном разделе рассматривается стратегия Cross-Section Performance Reversion
 
